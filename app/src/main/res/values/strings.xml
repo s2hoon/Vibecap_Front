@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">vibecap</string>
+    <string name="logo">Vibe</string>
+    <string name="Weekly">Weekly #Vibe</string>
 </resources>
