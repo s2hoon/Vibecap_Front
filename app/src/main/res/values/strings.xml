@@ -2,4 +2,6 @@
     <string name="app_name">vibecap</string>
     <string name="logo">Vibe</string>
     <string name="Weekly">Weekly #Vibe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
