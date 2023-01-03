@@ -6,10 +6,14 @@
         <entry key="..\:/Vibecap/app/src/main/res/layout/activity_main.xml" value="0.17502532928064843" />
         <entry key="..\:/Vibecap/app/src/main/res/layout/activity_vibe.xml" value="0.1" />
         <entry key="..\:/Vibecap/app/src/main/res/layout/activity_vibe_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Vibecap/app/src/main/res/layout/fragment_album.xml" value="0.3333333333333333" />
+        <entry key="..\:/Vibecap/app/src/main/res/layout/fragment_history_post.xml" value="0.2774725274725275" />
+        <entry key="..\:/Vibecap/app/src/main/res/layout/fragment_home.xml" value="0.17350557244174267" />
+        <entry key="..\:/Vibecap/app/src/main/res/layout/fragment_vibe.xml" value="0.17350557244174267" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
