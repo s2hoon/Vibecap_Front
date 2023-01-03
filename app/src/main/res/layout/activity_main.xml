@@ -25,7 +25,14 @@
     </com.lukedeighton.wheelview.WheelView>
 
 
-
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigationview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:itemBackground="@color/white"
+        app:menu="@menu/bottom_menu"
+        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
