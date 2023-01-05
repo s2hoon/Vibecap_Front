@@ -49,11 +49,15 @@
     <ImageButton
 
         android:layout_width="52dp"
-        android:layout_height="45dp"
-        android:background="transparent"
+        android:layout_height="48dp"
+        android:background="@color/white"
         android:src="@drawable/vector"
-        tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="533dp" />
+        app:layout_constraintBottom_toTopOf="@+id/Share"
+        app:layout_constraintEnd_toStartOf="@+id/Post"
+        app:layout_constraintHorizontal_bias="0.547"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TestVideoView"
+        app:layout_constraintVertical_bias="0.655" />
 
     <Button
         android:id="@+id/Backward"
