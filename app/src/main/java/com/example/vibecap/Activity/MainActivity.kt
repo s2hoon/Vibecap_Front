@@ -1,4 +1,4 @@
-package com.example.vibecap
+package com.example.vibecap.Activity
 
 import android.graphics.Color
 import android.graphics.drawable.Drawable
@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.example.vibecap.R
 import com.lukedeighton.wheelview.WheelView
 import com.lukedeighton.wheelview.adapter.WheelAdapter
 
