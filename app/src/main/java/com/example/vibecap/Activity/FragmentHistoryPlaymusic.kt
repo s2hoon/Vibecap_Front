@@ -1,4 +1,4 @@
-package com.example.vibecap
+package com.example.vibecap.Activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
